@@ -1,0 +1,4 @@
+Ques 1
+Cherry pick is a git command which let's use to merge a particular commit into any other branch. We can select any one of the commits in a branch to be merged. We use the commits' ID for performing the command.
+Eg: git cherry pick <id>
+Step 1: Make a new file
