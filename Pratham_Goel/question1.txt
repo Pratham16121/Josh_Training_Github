@@ -5,3 +5,4 @@ Step 1: Make a new file
 Step 2: Sample Commit
 Step 3: 2nd sample commit in master branch
 Step 4: Commit in the PrathamGoelCherryPick branch
+Step 5: Completed Cherry Pick
