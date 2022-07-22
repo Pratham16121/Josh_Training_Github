@@ -1,0 +1,6 @@
+Ques 2
+We can make a new remote by the command
+git remote add <remote_name> <link for the repository>
+Eg: git remote add newRemote <link>
+
+Use case for this command can be when we are working on multiple git repositories and we have to keep the sync available in all the repositories. 
