@@ -1,0 +1,23 @@
+Ques 3
+$ git rebase -i HEAD~5
+[detached HEAD 7827f1a] Updated the file in the PrathamGoel Branch
+ Date: Fri Jul 22 11:09:29 2022 +0530
+ 2 files changed, 9 insertions(+)
+ create mode 100644 Pratham_Goel/question2.txt
+Successfully rebased and updated refs/heads/PrathamGoel.
+
+$ git log
+commit 7827f1a16a18166be633374edd31fb59ffa9cb54 (HEAD -> PrathamGoel)
+Author: Pratham16121 <pratham.goel16@gmail.com>
+Date:   Fri Jul 22 11:09:29 2022 +0530
+
+    Updated the file in the PrathamGoel Branch
+
+    Completed cherry-pick command in PrathamGoel branch, took commit 26cc065 in the PrathamGoel branch
+
+    Add the statement for completing cherry pick and testing the graph
+
+    Add question2.txt which contains the solution for quest2
+
+    Changes made in question2.txt - Pratham Goel
+

@@ -1,0 +1,3 @@
+Ques 5
+To unstage the changes from the staged area, we use reset
+Syntax - git reset
