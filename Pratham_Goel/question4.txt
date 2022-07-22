@@ -1,5 +1,0 @@
-Ques 4
-Force push force the local data onto the remote repository. It does not merges the data with the remote date. It actually, change the remote repository with the local repo.
-Syntax: git push --force <remote> <branch>
-
-Force push with lease
