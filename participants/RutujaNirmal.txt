@@ -1,0 +1,7 @@
+Name : Rutuja Nirmal
+<<<<<<< HEAD
+=======
+LinkedIn : https://linkedin.com/in/rutujanirmal
+>>>>>>> 0f02a45a18f96b30ba659d47dcf7a61103025644
+I am a SDE Intern as Josh Software
+I have been coding in Python and now eager to learn ROR

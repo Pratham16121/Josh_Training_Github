@@ -1,0 +1,8 @@
+Hi, I am Pratham Goel. 
+I'm pursuing B.Tech from Symbiosis University of Applied Sciences. 
+I like to play BasketBall, Badminton and all the sports.
+I also like to solve rubix cube.
+I am really liking the training and I have learned a lot. 
+Looking forward to learn new concepts.
+
+-> Added this statement after a commit in my text file and saving this too.
