@@ -15,12 +15,10 @@ while lives > 0 && correct < word.length()
         all_indexes.each {|i| ques[i] = letter}
         show_ques.call(ques)
         correct += all_indexes.length()
-        print " -- Lives left: ", lives, "\n"
-
     else
         lives -= 1
         show_ques.call((lives != 0)? ques: word)
-        print " -- Lives left: ", lives, "\n"
     end
+    print " -- Lives left: ", lives, "\n"
 end
 print ((live > 0)? "You Won": "You loose")
